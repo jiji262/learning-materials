@@ -517,54 +517,54 @@
 
 ## 1.Courses
 
-| Courses | Comments |  |
+| Courses | Comments | Language |
 |----------|---|---|
-| AlgoExpert - 50 Frontend Interview Questions 2022-3 |  |  |
-| AlgoExpert - Systems Design Interview Tips 2023-1 |  |  |
-| CodeFast - Learn to code in weeks, not months 2024-12 |  |  |
-| Coursera – RESTful Microservices Using Node.js and Express Specialization 2025-1 |  |  |
-| Dometrain - Career Building a ResumeCV & LinkedIn Profile 2025-1 |  |  |
-| Educative - Educative-77 in JavaScript Accelerate Your Coding Interview Prep 2024-9 |  |  |
-| Educative - Educative-99 in JavaScript Accelerate Your Coding Interview Prep 2024-9 |  |  |
-| Educative - Grokking Blind 75 in JavaScript Mastery through Coding Patterns 2024-9 |  |  |
-| Educative - Grokking Grind 75 in JavaScript Mastery through Coding Patterns 2024-9 |  |  |
-| Educative - Grokking Modern System Design Interview for Engineers & Managers 2022-10 |  |  |
-| Educative - Grokking the Coding Interview Patterns for Coding Questions 2022-7 |  |  |
-| Educative.io - Deep Dive into System Design Interview Skill Path 2023-8 |  |  |
-| Epic React - Learn React 19 with Epic React v2 2024-9 |  |  |
-| Fireship - Modern JavaScript Full Course 2022-12 |  |  |
-| FrontEndMasters - Blazingly Fast JavaScript 2023-11 |  |  |
-| FrontEndMasters - Professional JavaScript 2023-11 |  |  |
-| FrontEndMasters - The Last Algorithms Course You'll Want (Part 2) 2023-11 |  |  |
-| Frontend Masters - Backend Systems Design 2024-5 |  |  |
-| Frontend Masters - Build AI powered Apps with OpenAI and Node.JS 2023-11 |  |  |
-| Frontend Masters - Fullstack Vanilla JavaScript 2024-8 |  |  |
-| Frontend Masters - Fundamentals of Frontend System Design 2024-7 |  |  |
-| Frontend Masters - Getting a Software Engineering Job, v3 2024-5 |  |  |
-| Frontend Masters - Guide for Launching Your Next Big Idea 2024-5 |  |  |
-| Frontend Masters - TailwindCSS 2023-11 |  |  |
-| Frontend Masters - The Product Design Process 2024-5 |  |  |
-| Frontend Masters - Ultimate Developer Setup, v2 2024-12 |  |  |
-| Frontend Masters - Vite 2023-11 |  |  |
-| Frontend Masters - Web Development Project Personal Portfolio Website 2024-9 |  |  |
-| FrontendMasters - Build a Website from Scratch 2024-11 |  |  |
-| FrontendMasters - Build an AI Agent from Scratch 2024-11 |  |  |
-| FrontendMasters - Client-Side GraphQL with React, v2 2024-6 |  |  |
-| FrontendMasters - Complete Intro to Containers, v2 2024-5 |  |  |
-| FrontendMasters - Complete Intro to React, v9 2024-10 |  |  |
-| FrontendMasters - Complete Intro to React, v9 2024-11 |  |  |
-| FrontendMasters - Design Systems with Storybook, v2 2024-5 |  |  |
-| FrontendMasters - Intermediate Next.js 2024-5 |  |  |
-| FrontendMasters - Intermediate React, v6 2025-3 |  |  |
-| FrontendMasters - JavaScript Design Patterns for Web Apps 2024-8 |  |  |
-| FrontendMasters - Next.js Fundamentals, v4 2025-2 |  |  |
-| FrontendMasters - Professional JS Features You Need to Know 2024-5 |  |  |
-| FrontendMasters - Prototype to Production Advanced AI Apps 2024-11 |  |  |
-| FrontendMasters - Server-Side GraphQL in Next.js 2024-6 |  |  |
-| FrontendMasters - Web Performance Fundamentals, v2 With Subs2024-10 |  |  |
-| GeeksforGeeks - Low Level Design for Interview Preparation - Self Paced 2025-1 |  |  |
-| Hack The Tech Interview - Hack the Tech Interview (The Pro Package) 2024-9 |  |  |
-| Masteringbackend - Become A Node.js Backend Engineer 2025-2 |  |  |
+| AlgoExpert - 50 Frontend Interview Questions 2022-3 | [⭐️⭐️⭐️⭐️] | English |
+| AlgoExpert - Systems Design Interview Tips 2023-1 | [⭐️⭐️⭐️] | English |
+| CodeFast - Learn to code in weeks, not months 2024-12 | [codefa.st price: $169](https://codefa.st/) | [⭐️⭐️⭐️⭐️] | English |
+| Coursera – RESTful Microservices Using Node.js and Express Specialization 2025-1 | [⭐️⭐️⭐️] | English |
+| Dometrain - Career Building a ResumeCV & LinkedIn Profile 2025-1 | [⭐️⭐️⭐️] | English |
+| Educative - Educative-77 in JavaScript Accelerate Your Coding Interview Prep 2024-9 | [⭐️⭐️⭐️]  | Not Video |
+| Educative - Educative-99 in JavaScript Accelerate Your Coding Interview Prep 2024-9 | [⭐️⭐️⭐️]  | Not Video |
+| Educative - Grokking Blind 75 in JavaScript Mastery through Coding Patterns 2024-9 | [⭐️⭐️⭐️]  | Not Video |
+| Educative - Grokking Grind 75 in JavaScript Mastery through Coding Patterns 2024-9 | [⭐️⭐️⭐️]  | Not Video |
+| Educative - Grokking Modern System Design Interview for Engineers & Managers 2022-10 | [⭐️⭐️⭐️]  | Not Video |
+| Educative - Grokking the Coding Interview Patterns for Coding Questions 2022-7 | [⭐️⭐️⭐️⭐️]  | Not Video |
+| Educative.io - Deep Dive into System Design Interview Skill Path 2023-8 | [⭐️⭐️⭐️⭐️]  | Not Video |
+| Epic React - Learn React 19 with Epic React v2 2024-9 | [⭐️⭐️⭐️⭐️⭐️]  | English |
+| Fireship - Modern JavaScript Full Course 2022-12 | [⭐️⭐️⭐️⭐️⭐️]  | English |
+| FrontEndMasters - Blazingly Fast JavaScript 2023-11 | [⭐️⭐️⭐️] | English |
+| FrontEndMasters - Professional JavaScript 2023-11 | [⭐️⭐️⭐️] | English |
+| FrontEndMasters - The Last Algorithms Course You'll Want (Part 2) 2023-11 | [⭐️⭐️⭐️] | English |
+| Frontend Masters - Backend Systems Design 2024-5 |  [⭐️⭐️⭐️] | English |
+| Frontend Masters - Build AI powered Apps with OpenAI and Node.JS 2023-11 | [⭐️⭐️⭐️] | English |
+| Frontend Masters - Fullstack Vanilla JavaScript 2024-8 | [⭐️⭐️⭐️] | English |
+| Frontend Masters - Fundamentals of Frontend System Design 2024-7 | [⭐️⭐️⭐️] | English |
+| Frontend Masters - Getting a Software Engineering Job, v3 2024-5 | [⭐️⭐️⭐️] | English |
+| Frontend Masters - Guide for Launching Your Next Big Idea 2024-5 |  [⭐️⭐️⭐️] | English |
+| Frontend Masters - TailwindCSS 2023-11 | [⭐️⭐️⭐️] | English |
+| Frontend Masters - The Product Design Process 2024-5 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Frontend Masters - Ultimate Developer Setup, v2 2024-12 |  [⭐️⭐️⭐️] | English |
+| Frontend Masters - Vite 2023-11 | [⭐️⭐️⭐️] | English |
+| Frontend Masters - Web Development Project Personal Portfolio Website 2024-9 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Build a Website from Scratch 2024-11 |  [⭐️⭐️⭐️] | English |
+| FrontendMasters - Build an AI Agent from Scratch 2024-11 |  [⭐️⭐️⭐️] | English |
+| FrontendMasters - Client-Side GraphQL with React, v2 2024-6 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Complete Intro to Containers, v2 2024-5 |  [⭐️⭐️⭐️] | English |
+| FrontendMasters - Complete Intro to React, v9 2024-10 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Complete Intro to React, v9 2024-11 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| FrontendMasters - Design Systems with Storybook, v2 2024-5 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Intermediate Next.js 2024-5 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Intermediate React, v6 2025-3 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| FrontendMasters - JavaScript Design Patterns for Web Apps 2024-8 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Next.js Fundamentals, v4 2025-2 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| FrontendMasters - Professional JS Features You Need to Know 2024-5 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Prototype to Production Advanced AI Apps 2024-11 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Server-Side GraphQL in Next.js 2024-6 | [⭐️⭐️⭐️] | English |
+| FrontendMasters - Web Performance Fundamentals, v2 With Subs2024-10 | [⭐️⭐️⭐️] | English |
+| GeeksforGeeks - Low Level Design for Interview Preparation - Self Paced 2025-1 | [⭐️⭐️⭐️⭐️] | ** Hnglish ** |
+| Hack The Tech Interview - Hack the Tech Interview (The Pro Package) 2024-9 |  [⭐️⭐️⭐️] | English |
+| Masteringbackend - Become A Node.js Backend Engineer 2025-2 | [⭐️⭐️⭐️⭐️] | ** Hnglish ** |
 | NeetCode - Algorithms & Data Structures for Beginners 2025-2 |  |  |
 | NeetCode - System Design Interview 2022-12 |  |  |
 | NeetCode.io - Object Oriented Design Interviews 2023-11 |  |  |
@@ -631,7 +631,7 @@
 │   ├── 3 JavaScript
 │   ├── 4 DOM Manipulation
 │   ├── 5 React Components
-│   ├── 6 Teact Hooks
+│   ├── 6 React Hooks
 │   └── Readme.txt
 ├── AlgoExpert - Systems Design Interview Tips 2023-1
 │   ├── Readme.txt
