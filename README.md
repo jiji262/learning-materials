@@ -4,28 +4,28 @@
 
 | Courses | Comments |  |
 |----------|---|---|
-| 30+ React Projects, Learn React JS by Building 30+ Web Apps |  |  |
-| Build a JavaScript AI App with React and the OpenAI API |  |  |
-| Building News Website with Javascript, React, and News API |  |  |
-| Data Structures  Algorithms - CODING INTERVIEW 25Days of Code |  |  |
-| Data structure and algorithms for interviews |  |  |
-| JavaScript Five Advanced Challenges and Concepts |  |  |
-| Josh Comeau - Joy of React 23 (hevc) |  |  |
-| Josh Comeau - The Joy of React 2023-9 |  |  |
-| Next.js 13 & React - Full Stack App Development |  |  |
-| React Intermediate Topics |  |  |
-| React Simplified - Advanced (2023) |  |  |
-| React Simplified - Beginner (2023) |  |  |
-| React Simplified - Bonus Project |  |  |
-| React State Management |  |  |
-| React js Basic To Advance Learn by Doing |  |  |
-| React.gg - The interactive way to master modern React 2023-12 |  |  |
-| The Ultimate Nextjs 14 Crash course Master Web Development |  |  |
-| The Ultimate React Course 2023 React, Redux & More |  |  |
-| 7 Projects in 7 Days - Basic to Advance in ReactJS |  |  |
-| crack-frontend-interview-react |  |  |
-| microfrontend-architecture-intro-video |  |  |
-| react-infographics |  |  |
+| 30+ React Projects, Learn React JS by Building 30+ Web Apps | [⭐️⭐️⭐️⭐️] | English |
+| Build a JavaScript AI App with React and the OpenAI API | [⭐️⭐️⭐️] | English |
+| Building News Website with Javascript, React, and News API |  [⭐️⭐️⭐️⭐️] | English |
+| Data Structures  Algorithms - CODING INTERVIEW 25Days of Code | [⭐️⭐️⭐️] in JS  | Hinglish |
+| Data structure and algorithms for interviews | [⭐️⭐️⭐️] in JS | Hinglish |
+| JavaScript Five Advanced Challenges and Concepts | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Josh Comeau - Joy of React 23 (hevc) |  [⭐️⭐️⭐️⭐️⭐️] | English |
+| Josh Comeau - The Joy of React 2023-9 |  [⭐️⭐️⭐️⭐️⭐️] | English |
+| Next.js 13 & React - Full Stack App Development | [OUTDATED] |  |
+| React Intermediate Topics | [⭐️⭐️⭐️⭐️] | English |
+| React Simplified - Advanced (2023) | [⭐️⭐️⭐️⭐️] | English |
+| React Simplified - Beginner (2023) | [⭐️⭐️⭐️⭐️] | English |
+| React Simplified - Bonus Project | [⭐️⭐️⭐️⭐️] | English |
+| React State Management |  [⭐️⭐️⭐️⭐️] | English |
+| React js Basic To Advance Learn by Doing |  [⭐️⭐️⭐️] | English |
+| React.gg - The interactive way to master modern React 2023-12 | [⭐️⭐️⭐️⭐️⭐️] | NOT Video |
+| The Ultimate Nextjs 14 Crash course Master Web Development | [OUTDATED] |  |
+| The Ultimate React Course 2023 React, Redux & More | [OUTDATED] |  |
+| 7 Projects in 7 Days - Basic to Advance in ReactJS |  [⭐️⭐️] | Hinglish |
+| crack-frontend-interview-react |  [⭐️⭐️⭐️⭐️⭐️] | English |
+| microfrontend-architecture-intro-video | [⭐️⭐️⭐️⭐️] | English |
+| react-infographics | [⭐️⭐️⭐️⭐️⭐️] | NOT Video |
 
 
 <details>
@@ -2479,7 +2479,6 @@
 │   ├── lesson7.mp4
 │   ├── lesson8.mp4
 │   └── lesson9.mp4
-├── ThemeForest_Modernize_Next_Js_Admin_Dashboard_with_App_Directory_v6.0_Downloadly.ir.rar
 ├── Tomray - Master NestJS by Building Real-World Projects 2025-4
 │   ├── 1.-Introduction-_-project-preview.mp4
 │   ├── 10.-Exception-filters.mp4
