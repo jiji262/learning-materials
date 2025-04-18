@@ -521,7 +521,7 @@
 |----------|---|---|
 | AlgoExpert - 50 Frontend Interview Questions 2022-3 | [⭐️⭐️⭐️⭐️] | English |
 | AlgoExpert - Systems Design Interview Tips 2023-1 | [⭐️⭐️⭐️] | English |
-| CodeFast - Learn to code in weeks, not months 2024-12 | [codefa.st price: $169](https://codefa.st/) | [⭐️⭐️⭐️⭐️] | English |
+| CodeFast - Learn to code in weeks, not months 2024-12 | [⭐️⭐️⭐️⭐️] | English |
 | Coursera – RESTful Microservices Using Node.js and Express Specialization 2025-1 | [⭐️⭐️⭐️] | English |
 | Dometrain - Career Building a ResumeCV & LinkedIn Profile 2025-1 | [⭐️⭐️⭐️] | English |
 | Educative - Educative-77 in JavaScript Accelerate Your Coding Interview Prep 2024-9 | [⭐️⭐️⭐️]  | Not Video |
@@ -564,60 +564,59 @@
 | FrontendMasters - Web Performance Fundamentals, v2 With Subs2024-10 | [⭐️⭐️⭐️] | English |
 | GeeksforGeeks - Low Level Design for Interview Preparation - Self Paced 2025-1 | [⭐️⭐️⭐️⭐️] | ** Hnglish ** |
 | Hack The Tech Interview - Hack the Tech Interview (The Pro Package) 2024-9 |  [⭐️⭐️⭐️] | English |
-| Masteringbackend - Become A Node.js Backend Engineer 2025-2 | [⭐️⭐️⭐️⭐️] | ** Hnglish ** |
-| NeetCode - Algorithms & Data Structures for Beginners 2025-2 |  |  |
-| NeetCode - System Design Interview 2022-12 |  |  |
-| NeetCode.io - Object Oriented Design Interviews 2023-11 |  |  |
-| NeetCode.io - System Design for Beginners 2024-2 |  |  |
-| Neetcode.io - Object Oriented Design Patterns 2024-1 |  |  |
-| Newline - React Data Fetching Beyond the Basics 2024-9 |  |  |
-| Oreilly - Acing the System Design Interview, Video Edition 2024-1 |  |  |
-| Oreilly - React in Depth Video Edition 2024-8 |  |  |
-| Pluralsight - Architecting React Applications with Next.js 2024-11 |  |  |
-| Pluralsight - React Performance Playbook 2024-2 |  |  |
-| Pluralsight - Web3 Fundamentals 2024-3 |  |  |
-| Road To Next - The Road to Next 2024-11 |  |  |
-| Tech Series - Tech Interview Pro 2025-2 |  |  |
-| ThemeForest_Modernize_Next_Js_Admin_Dashboard_with_App_Directory_v6.0_Downloadly.ir.rar |  |  |
-| Tomray - Master NestJS by Building Real-World Projects 2025-4 |  |  |
-| Udemy - 15 React Projects Enhance Your Skills as a Beginner 2024-12 |  |  |
-| Udemy - Advanced NodeJS Level up your NodeJS skill In 2025 2024-9 |  |  |
-| Udemy - Build 5 Python Web Scraping Projects Beginner to Advanced 2024-10 |  |  |
-| Udemy - Crash Course Build a Full-Stack Web App in a Weekend! 2024-11 |  |  |
-| Udemy - Cursor AI Learn by Building Full-Stack Next.js 15 App 2025-1 |  |  |
-| Udemy - Cursor Course FullStack development with Cursor AI Copilot 2024-10 |  |  |
-| Udemy - English Pronunciation - Complete Guide to English Speaking 2024-11 |  |  |
-| Udemy - Essential React Hooks by Example 2024-12 |  |  |
-| Udemy - Full Stack Course  Build & Deploy 4 Projects and Get Hired 2025-2 |  |  |
-| Udemy - Getting Started with React and Vite Library 2024-9 |  |  |
-| Udemy - Hands On React JS From Beginner to Expert 2024-9 |  |  |
-| Udemy - Interview Success - Business English for Job Interviews 2024-3 |  |  |
-| Udemy - JavaScript Algorithms and Data Structures Masterclass 2025-2 |  |  |
-| Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) 2023-11 |  |  |
-| Udemy - JavaScript Interview Questions - Coding Interview 2023 2022-2 |  |  |
-| Udemy - JavaScript Mastery 2024 Zero to Expert with Interview Prep 2024-2 |  |  |
-| Udemy - JavaScript Pro Mastering Advanced Concepts and Techniques 2025-1 |  |  |
-| Udemy - JavaScript Variables & Execution Context Visualized in 2025 2024-11 |  |  |
-| Udemy - Management Skills - Team Leadership Skills Masterclass 2024-8 |  |  |
-| Udemy - Master Next.js 15 - Complete Masterclass 2024-8 |  |  |
-| Udemy - Master React Patterns by Example 2025-1 |  |  |
-| Udemy - Master the Coding Interview Data Structures + Algorithms 2025-2 |  |  |
-| Udemy - Mastering NextJS + Interview Questions + E-commerce Project 2024-11 |  |  |
-| Udemy - Mastering Node.js by answering top interview questions 2023-01 |  |  |
-| Udemy - Mastering React With Interview Questions,eStore Project-2023 2021-12 |  |  |
-| Udemy - Mastering React.js by answering top interview questions 2023-9 |  |  |
-| Udemy - NestJS The Complete Developer's Guide 2025-1 |  |  |
-| Udemy - Node with React Fullstack Web Development 2025-1 |  |  |
-| Udemy - React + TypeScript Essential Training 2024-3 |  |  |
-| Udemy - React Advanced Concepts Re-Rendering, Performance & More 2025-1 |  |  |
-| Udemy - React Interview Masterclass Top 200 Questions (with PDF) 2024-1 |  |  |
-| Udemy - React Interview Questions - Coding Interview 2023 2023-7 |  |  |
-| Udemy - System Design Ultimate Course for Cracking Tech Interviews 2024-9 |  |  |
-| Udemy - The Coding Interview Bootcamp Algorithms + Data Structures 2025-4 |  |  |
-| Udemy - The complete React 18 Fullstack course ( 2024 edition) 2023-11 |  |  |
-| Udemy - TypeScript Interview Questions - Coding Interview 2023 2023-8 |  |  |
-| Udemy - Typescript & React JS Course with React & Typescript Project 2025-1 |  |  |
-| Web Dev Simplified - React Simplified - Next.js 2025-3 |  |  |
+| Masteringbackend - Become A Node.js Backend Engineer 2025-2 | [⭐️⭐️⭐️⭐️] | **Hnglish** |
+| NeetCode - Algorithms & Data Structures for Beginners 2025-2 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| NeetCode - System Design Interview 2022-12 | [⭐️⭐️⭐️⭐️] | English |
+| NeetCode.io - Object Oriented Design Interviews 2023-11 | [⭐️⭐️⭐️⭐️] | English |
+| NeetCode.io - System Design for Beginners 2024-2 | [⭐️⭐️⭐️⭐️] | English |
+| Neetcode.io - Object Oriented Design Patterns 2024-1 |  [⭐️⭐️⭐️⭐️] | English |
+| Newline - React Data Fetching Beyond the Basics 2024-9 | [⭐️⭐️⭐️] | English |
+| Oreilly - Acing the System Design Interview, Video Edition 2024-1 | [⭐️⭐️] | AI English |
+| Oreilly - React in Depth Video Edition 2024-8 |  [⭐️⭐️] | AI English |
+| Pluralsight - Architecting React Applications with Next.js 2024-11 |   [⭐️⭐️⭐️⭐️] | English |
+| Pluralsight - React Performance Playbook 2024-2 |  [⭐️⭐️⭐️⭐️] | English |
+| Pluralsight - Web3 Fundamentals 2024-3 |  [⭐️⭐️⭐️⭐️] | English |
+| Road To Next - The Road to Next 2024-11 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Tech Series - Tech Interview Pro 2025-2 |  [⭐️⭐️⭐️⭐️] In Python | English |
+| Tomray - Master NestJS by Building Real-World Projects 2025-4 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - 15 React Projects Enhance Your Skills as a Beginner 2024-12 | [⭐️⭐️] | Hinglish |
+| Udemy - Advanced NodeJS Level up your NodeJS skill In 2025 2024-9 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Build 5 Python Web Scraping Projects Beginner to Advanced 2024-10 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Crash Course Build a Full-Stack Web App in a Weekend! 2024-11 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - Cursor AI Learn by Building Full-Stack Next.js 15 App 2025-1 | [⭐️⭐️⭐️] | English |
+| Udemy - Cursor Course FullStack development with Cursor AI Copilot 2024-10 | [⭐️⭐️⭐️] | English |
+| Udemy - English Pronunciation - Complete Guide to English Speaking 2024-11 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Essential React Hooks by Example 2024-12 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Full Stack Course  Build & Deploy 4 Projects and Get Hired 2025-2 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - Getting Started with React and Vite Library 2024-9 | [⭐️] | English |
+| Udemy - Hands On React JS From Beginner to Expert 2024-9 | [⭐️⭐️⭐️] | English |
+| Udemy - Interview Success - Business English for Job Interviews 2024-3 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - JavaScript Algorithms and Data Structures Masterclass 2025-2 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - JavaScript Interview Masterclass Top 300 Questions (2024) 2023-11 |  [⭐️⭐️] | Hinglish |
+| Udemy - JavaScript Interview Questions - Coding Interview 2023 2022-2 | [⭐️⭐️⭐️] | English |
+| Udemy - JavaScript Mastery 2024 Zero to Expert with Interview Prep 2024-2 | [⭐️⭐️] | Hinglish |
+| Udemy - JavaScript Pro Mastering Advanced Concepts and Techniques 2025-1 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - JavaScript Variables & Execution Context Visualized in 2025 2024-11 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - Management Skills - Team Leadership Skills Masterclass 2024-8 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Master Next.js 15 - Complete Masterclass 2024-8 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Master React Patterns by Example 2025-1 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Master the Coding Interview Data Structures + Algorithms 2025-2 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - Mastering NextJS + Interview Questions + E-commerce Project 2024-11 | [⭐️⭐️] | Hinglish |
+| Udemy - Mastering Node.js by answering top interview questions 2023-01 | [⭐️⭐️] | Hinglish |
+| Udemy - Mastering React With Interview Questions,eStore Project-2023 2021-12 | [⭐️⭐️] | Hinglish |
+| Udemy - Mastering React.js by answering top interview questions 2023-9 | [⭐️⭐️] | Hinglish |
+| Udemy - NestJS The Complete Developer's Guide 2025-1 |  [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Node with React Fullstack Web Development 2025-1 |  [⭐️⭐️⭐️⭐️] | English |
+| Udemy - React + TypeScript Essential Training 2024-3 |  [⭐️⭐️⭐️⭐️] | English |
+| Udemy - React Advanced Concepts Re-Rendering, Performance & More 2025-1 |  [⭐️⭐️] | Hinglish |
+| Udemy - React Interview Masterclass Top 200 Questions (with PDF) 2024-1 | [⭐️⭐️⭐️] | Hinglish |
+| Udemy - React Interview Questions - Coding Interview 2023 2023-7 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - System Design Ultimate Course for Cracking Tech Interviews 2024-9 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - The Coding Interview Bootcamp Algorithms + Data Structures 2025-4 | [⭐️⭐️⭐️⭐️⭐️] | English |
+| Udemy - The complete React 18 Fullstack course ( 2024 edition) 2023-11 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - TypeScript Interview Questions - Coding Interview 2023 2023-8 | [⭐️⭐️⭐️⭐️] | English |
+| Udemy - Typescript & React JS Course with React & Typescript Project 2025-1 | [⭐️⭐️⭐️⭐️] | English |
+| Web Dev Simplified - React Simplified - Next.js 2025-3 | [⭐️⭐️⭐️⭐️⭐️] | English |
 
 
 <details>
@@ -1808,15 +1807,15 @@
 │   └── Readme.txt
 ├── NeetCode.io - Object Oriented Design Interviews 2023-11
 │   ├── 0. Code.zip
-│   ├── 0. Design Connect Four - www.neon.rip.zip
+│   ├── 0. Design Connect Four.zip
 │   ├── 1. Code.zip
-│   ├── 1. Design Blackjack - www.neon.rip.zip
+│   ├── 1. Design Blackjack.zip
 │   ├── 2. Code.zip
-│   ├── 2. Design a Parking Lot - www.neon.rip.zip
+│   ├── 2. Design a Parking Lot.zip
 │   ├── 3. Code.zip
-│   ├── 3. Design a Bank - www.neon.rip.zip
+│   ├── 3. Design a Bank.zip
 │   ├── 4. Code.zip
-│   ├── 4. Design a Movie Recommendation System - www.neon.rip.zip
+│   ├── 4. Design a Movie Recommendation System.zip
 │   ├── 5 - Design an Elevator System.zip
 │   ├── 6 - Design Chess.zip
 │   ├── Readme.txt
